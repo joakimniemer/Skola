@@ -1,0 +1,4 @@
+Filename: /home/joakim/Documents/Skolan/OOP/ÖvningInförProv/text.txt
+Date: 2022-12-19T18:06:29.817963
+Words processed: 21
+Total unique words: 6

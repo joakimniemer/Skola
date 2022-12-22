@@ -1,0 +1,36 @@
+1. Arrayer kan primitiva typer, det kan inte Lister göra utan
+de behöver wrapper-klasser för att hantera primitiva typer.
+Arrayer har en bestämd storlek, Listors storlek är flexibel.
+
+2. Ett interface är ett slags "kontrakt" som säger "jag kan göra det här"
+men inte hur den gör det. Intefacet listar ett antal metoder som klasser
+som implementerar interfacet måste innehålla för att fullfölja "kontraktet".
+
+3.Catch används för att fånga untandag som kastas. När man fångat undantaget
+kan och bör man hantera det på något vettigt sätt. Tex ett via ett felmeddelande
+som hjälper till att förtydliga vad som gått snett.
+
+4. Interfacet Set hanterar generiska samlingar där det inte får förekomma dubletter.
+
+5. Används för inkapsling där vi vill ha tillgång till klassen/metoden/variablen 
+från klasser i samma paket, samt klasser från andra paket.
+
+6. En Stream är en sekvensiell följd av element som kan körar parallellt och 
+stödjer aggregerandefunktioner.
+
+7. En konstruktor en slags metod som används för att initiera ett objekt av en 
+klass med hjälp av nyckelordet new.
+
+8. Att sägerställa att klasser som ärver av Closeable stängs ner när man är klara med
+dem. Detta för att spara resurser och att dom inte skall dra onödig prestanda.
+
+9. Ja det kan vi. Över vi från klasser med publica metoder kan vi komma åt dessa och
+därför också överskugga dem.
+
+10. Obejct.
+    Object är roten i klass hirarkin och är klassen där metoderna equals och hashCode finns.
+
+11. En samling java filer nedpackade i ett filmformat (jar).
+
+12. Ja dom kan överlagras, men dom kan inte överskuggas om klassen ärvs  om metoden
+är final.

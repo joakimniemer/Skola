@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SvarOvningTva",
+            "request": "launch",
+            "mainClass": "SvarOvningTva",
+            "projectName": "Handledning1ExtraOvningar_e976aa41"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch LattOvningAtta",
+            "request": "launch",
+            "mainClass": "LattOvningAtta",
+            "projectName": "Handledning1ExtraOvningar_e976aa41"
+        },
+        {
+            "type": "java",
+            "name": "Launch LattOvningEtt",
+            "request": "launch",
+            "mainClass": "LattOvningEtt",
+            "projectName": "Handledning1ExtraOvningar_e976aa41"
+        },
+        {
+            "type": "java",
+            "name": "Launch LattOvningFem",
+            "request": "launch",
+            "mainClass": "LattOvningFem",
+            "projectName": "Handledning1ExtraOvningar_e976aa41"
+        },
+        {
+            "type": "java",
+            "name": "Launch LattOvningFyra",
+            "request": "launch",
+            "mainClass": "LattOvningFyra",
+            "projectName": "Handledning1ExtraOvningar_e976aa41"
+        },
+        {
+            "type": "java",
+            "name": "Launch LattOvningNio",
+            "request": "launch",
+            "mainClass": "LattOvningNio",
+            "projectName": "Handledning1ExtraOvningar_e976aa41"
+        },
+        {
+            "type": "java",
+            "name": "Launch LattOvningSex",
+            "request": "launch",
+            "mainClass": "LattOvningSex",
+            "projectName": "Handledning1ExtraOvningar_e976aa41"
+        },
+        {
+            "type": "java",
+            "name": "Launch LattOvningSju",
+            "request": "launch",
+            "mainClass": "LattOvningSju",
+            "projectName": "Handledning1ExtraOvningar_e976aa41"
+        },
+        {
+            "type": "java",
+            "name": "Launch LattOvningTva",
+            "request": "launch",
+            "mainClass": "LattOvningTva",
+            "projectName": "Handledning1ExtraOvningar_e976aa41"
+        }
+    ]
+}
